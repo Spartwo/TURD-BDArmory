@@ -6,7 +6,7 @@
 #Textures unlimited
 https://forum.kerbalspaceprogram.com/index.php?/topic/167450-19x-textures-unlimited-pbr-shader-texture-set-and-model-loading-api/
 
-##TURD                                                                                                            
+##TURD
 https://forum.kerbalspaceprogram.com/index.php?/topic/174188-111x-textures-unlimited-recolour-depot/
 
 ##BD Armory
