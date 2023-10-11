@@ -3,17 +3,15 @@
 
 
 # Dependencies
-## Textures unlimited
+[Textures unlimited](https://forum.kerbalspaceprogram.com/index.php?/topic/167450-19x-textures-unlimited-pbr-shader-texture-set-and-model-loading-api/)
 
-https://forum.kerbalspaceprogram.com/index.php?/topic/167450-19x-textures-unlimited-pbr-shader-texture-set-and-model-loading-api/
+[TURD](https://forum.kerbalspaceprogram.com/index.php?/topic/174188-111x-textures-unlimited-recolour-depot/)
 
-## TURD
+[BD Armory](https://forum.kerbalspaceprogram.com/index.php?/topic/209092-19x-112x-bdarmory-plus-bda-v1601-2023-04-09/)
 
-https://forum.kerbalspaceprogram.com/index.php?/topic/174188-111x-textures-unlimited-recolour-depot/
-
-## BD Armory
-
-https://forum.kerbalspaceprogram.com/index.php?/topic/209092-19x-112x-bdarmory-plus-bda-v1601-2023-04-09/
-
-# BD Paint
-In this pack are paint overlay masks for BD armory alongside prepared compatibility for upcoming BD associated mod
+# Covering
+- BD Armory
+- BD Armory Extended
+- SM AFVs
+- MalFunc
+- KP Armory
