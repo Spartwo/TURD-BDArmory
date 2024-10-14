@@ -16,3 +16,4 @@
 - MalFunc
 - KP Armory
 - Kerbalfield
+- Wraithforge
