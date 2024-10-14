@@ -1,5 +1,5 @@
 # TURD-BDArmory
- Turd paint masks for the ksp mod BD armory
+ Textures Unlimited paint masks for the ksp mod BD armory and other submods
 
 
 # Dependencies
